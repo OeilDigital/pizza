@@ -1,0 +1,9 @@
+// https://www.youtube.com/watch?v=nGoSP3MBV2E&list=PLknJ3B2ohao-drcWDUMfKNgmcNn4FsqzH&index=120&t=1s
+// 4:33:13
+// nvm use 16.20.1  -> npm run dev ->  pour start le projet sur http://localhost:3000/
+
+//Google - Créer un provider qui permet de se loguer avec un compte Google
+//2:35:09
+
+//aws - Amazon - Créer un cloud pour sauvegarder l'image de profile des utilisateur + toast ** Pas fait! ** 
+//3:44:49 -> 4:29:31
